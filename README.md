@@ -1,3 +1,3 @@
 # titanic-app-streamlit-heroku
 
-titanic-deployment-app.png
+![Image](titanic-deployment-app.png)
