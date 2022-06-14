@@ -47,3 +47,6 @@ The following figures show the display of the App created:
 ![Image](titanic-deployment-app-scroll-1.png)
 
 ![Image](titanic-deployment-app-scroll-2.png)
+
+
+Thank you for taking the time to read my work !!!
