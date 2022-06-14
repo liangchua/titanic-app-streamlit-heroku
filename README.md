@@ -10,8 +10,12 @@ Please refer to the "titanic-survival-prediction" repository to view the coding 
 [Link to repository](https://github.com/liangchua/titanic-survival-prediction)
 
 
+
+
 ### THE OBJECTIVE
 Create an App that deploy the trained Random Forest Classifier for Titanic Survival Prediction and let the User to play with the input parameters for new prediction.
+
+
 
 
 ### THE DESCRIPTION OF UPLOADED FILES
@@ -27,6 +31,8 @@ Create an App that deploy the trained Random Forest Classifier for Titanic Survi
 |titanic-deployment-app-scroll-2.png|An image display the expand of parameters' tables|
 |titanic-deployment-app.png|An image display the main part of the App|
 |titanic-deployment.py|The main coding file to create this App|
+
+
 
 
 ### THE APP
