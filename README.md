@@ -37,8 +37,6 @@ Create an App that deploy the trained Random Forest Classifier for Titanic Survi
 
 ### THE APP
 This App was created using Streamlit package in Python and publish using Heroku. 
-Please click the link to play with the App. It might take about 15-30 seconds to load the App. 
-[Welcome to the App](https://titanic-deployment-app.herokuapp.com/)
 
 The following figures show the display of the App created:
 
